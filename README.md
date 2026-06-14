@@ -55,7 +55,7 @@ I am a final-year B.Tech Data Science student at DPG Institute of Technology & M
 
 ## Featured Projects
 
-### Banking Fraud Detection & Risk Analytics
+### [Banking Fraud Detection & Risk Analytics](https://github.com/sahiljangid04/Fraud_Detection_Risk_Analytics)
 **Tech Stack:** SQL, Python, Power BI, XGBoost
 
 - Analyzed 44K+ banking transactions to identify fraud patterns and high-risk merchants.
@@ -63,14 +63,14 @@ I am a final-year B.Tech Data Science student at DPG Institute of Technology & M
 - Developed an XGBoost fraud detection model achieving ROC-AUC of 0.844.
 - Created Power BI dashboards for fraud monitoring and investigation.
 
-### Marketing ROI & Performance Analytics Dashboard
+### [Marketing ROI & Performance Analytics Dashboard](https://github.com/sahiljangid04/Marketing_ROI_Performance_Analytics_Dashboard)
 **Tech Stack:** Power BI, Excel
 
 - Built interactive dashboards tracking ROI, CPC, CPA, CTR, and conversions.
 - Performed audience segmentation and campaign performance analysis.
 - Identified major cost drivers using Power BI analytics features.
 
-### E-Commerce Retention & Customer Analytics
+### [E-Commerce Retention & Customer Analytics](https://github.com/sahiljangid04/Ecommerce_Retention_Operations_Analysis)
 **Tech Stack:** SQL
 
 - Conducted cohort analysis and churn analysis.
