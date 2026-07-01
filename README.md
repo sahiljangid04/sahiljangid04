@@ -10,11 +10,11 @@ I am a final-year B.Tech Data Science student at DPG Institute of Technology & M
 
 ## About Me
 
-- 🎓 B.Tech in Data Science (2022–2026)
-- 📍 Gurugram, Haryana, India
-- 📊 Interested in Data Analytics, Business Intelligence, Machine Learning, and AI
-- 💡 Passionate about solving business problems using data-driven solutions
-- 🌱 Currently strengthening skills in advanced analytics, dashboarding, and predictive modeling
+-  B.Tech in Data Science (2022–2026)
+-  Gurugram, Haryana, India
+-  Interested in Data Analytics, Business Intelligence, Machine Learning, and AI
+-  Passionate about solving business problems using data-driven solutions
+-  Currently strengthening skills in advanced analytics, dashboarding, and predictive modeling
 
 ---
 
@@ -34,6 +34,7 @@ I am a final-year B.Tech Data Science student at DPG Institute of Technology & M
 
 ### Tools
 - Power BI
+- Tableau 
 - Microsoft Excel
 - Git
 - GitHub
@@ -54,6 +55,30 @@ I am a final-year B.Tech Data Science student at DPG Institute of Technology & M
 ---
 
 ## Featured Projects
+
+### [Retail Consumer Intelligence & Business Analytics Platform](https://github.com/sahiljangid04/retail-consumer-intelligence-platform)
+**Tech Stack:** Python, SQL, Power BI, Scikit-Learn
+
+- Processed 99K+ orders and built an end-to-end retail analytics platform using the Olist marketplace dataset.
+- Developed Customer 360 analytics with RFM segmentation and K-Means clustering for customer intelligence.
+- Performed advanced SQL business analysis across sales, customers, products, sellers, and operations.
+- Designed interactive Power BI dashboards delivering executive-level business insights.
+
+### [Bank Loan Risk Analytics](https://github.com/sahiljangid04/Bank-Loan-Risk-Analytics)
+**Tech Stack:** Python, SQL, Power BI, Streamlit, Scikit-Learn
+
+- Analyzed 2.26M+ loan records to identify lending risks and borrower default patterns.
+- Built an optimized Logistic Regression model achieving a ROC-AUC of 70.34% for loan risk prediction.
+- Created interactive Power BI dashboards for portfolio monitoring, risk segmentation, and geographic analysis.
+- Deployed a Streamlit application enabling real-time loan default risk prediction.
+
+### [Bangalore Housing Market – ₹500 Cr PE Investment Thesis](https://github.com/sahiljangid04/Bangalore-Housing-Market-PE-Investment-Thesis)
+**Tech Stack:** Python, SQL, Power BI, Scikit-Learn
+
+- Analyzed 13K+ residential property listings to evaluate Bangalore's housing market for a ₹500 Cr investment strategy.
+- Built a Random Forest valuation model achieving an R² score of 0.92 for property price prediction.
+- Identified premium, affordable, and high-demand micro-markets through SQL and exploratory data analysis.
+- Developed executive Power BI dashboards supporting data-driven real estate investment decisions.
 
 ### [Banking Fraud Detection & Risk Analytics](https://github.com/sahiljangid04/Fraud_Detection_Risk_Analytics)
 **Tech Stack:** SQL, Python, Power BI, XGBoost
