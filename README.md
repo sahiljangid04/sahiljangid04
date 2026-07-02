@@ -117,7 +117,7 @@ I am a final-year B.Tech Data Science student at DPG Institute of Technology & M
 
 ## Connect With Me
 
-- LinkedIn: www.linkedin.com/in/sahil-jangid-3b385a271
+- LinkedIn: https://www.linkedin.com/in/sahil-jangid-45018a311/
 - GitHub: https://github.com/sahiljangid04
 - Email: sahiljangid09@gmail.com
 
