@@ -72,7 +72,7 @@ I am a final-year B.Tech Data Science student at DPG Institute of Technology & M
 - Created interactive Power BI dashboards for portfolio monitoring, risk segmentation, and geographic analysis.
 - Deployed a Streamlit application enabling real-time loan default risk prediction.
 
-### [Bangalore Housing Market – ₹500 Cr PE Investment Thesis](https://github.com/sahiljangid04/Bangalore-Housing-Market-PE-Investment-Thesis)
+### [Bangalore Housing Market – ₹500 Cr PE Investment Thesis](https://github.com/sahiljangid04/-Bangalore-Housing-Market-500-Cr-PE-investment)
 **Tech Stack:** Python, SQL, Power BI, Scikit-Learn
 
 - Analyzed 13K+ residential property listings to evaluate Bangalore's housing market for a ₹500 Cr investment strategy.
