@@ -4,7 +4,7 @@
 
 ## Data Analyst | Data Science Undergraduate | Aspiring AI & Analytics Professional
 
-I am a final-year B.Tech Data Science student at DPG Institute of Technology & Management with hands-on experience in SQL, Python, Power BI, Excel, and Machine Learning. I enjoy transforming raw data into actionable insights through analytics, visualization, and predictive modeling.
+B.Tech Data Science student at DPG Institute of Technology & Management with hands-on experience in SQL, Python, Power BI, Excel, and Machine Learning. I enjoy transforming raw data into actionable insights through analytics, visualization, and predictive modeling.
 
 ---
 
